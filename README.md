@@ -63,6 +63,7 @@
 ```
 After starting the program, you should see a continuous output of temperature and humidity readings every minute.
 
+![image](https://github.com/user-attachments/assets/2998b0ba-9615-4656-a5f1-79fd074091b7)
 
 
 ## RU
@@ -128,3 +129,5 @@ After starting the program, you should see a continuous output of temperature an
 ...
 ```
 После запуска программы вы должны увидеть непрерывный вывод данных о температуре и влажности каждую минуту.
+
+![image](https://github.com/user-attachments/assets/31502c5d-72d7-4c70-bb8f-84180c20d2f0)
